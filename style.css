@@ -1,0 +1,31 @@
+h1{
+    display: block;
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(255, 146, 183);
+}
+
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: Spx solid #000000;
+}
+
+button{
+    padding: 12px 25px;
+    font-size: 10px;
+    background-color: black;
+    color: aliceblue;
+    border: 3px #000000;
+    border-radius: 8px;
+    cursor: pointer;
+}
